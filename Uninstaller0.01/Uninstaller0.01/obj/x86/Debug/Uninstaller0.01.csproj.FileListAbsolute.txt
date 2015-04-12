@@ -8,3 +8,5 @@ F:\My Documents\Visual Studio 2010\Projects\Uninstaller0.01\Uninstaller0.01\obj\
 F:\My Documents\Visual Studio 2010\Projects\Uninstaller0.01\Uninstaller0.01\bin\Debug\Uninstaller0.01.pdb
 F:\My Documents\Visual Studio 2010\Projects\Uninstaller0.01\Uninstaller0.01\obj\x86\Debug\Uninstaller0.01.csprojResolveAssemblyReference.cache
 F:\My Documents\Visual Studio 2010\Projects\Uninstaller0.01\Uninstaller0.01\obj\x86\Debug\Uninstaller0.01.csproj.GenerateResource.Cache
+C:\Users\Owner\git\Windows-Background-Uninstaller\Uninstaller0.01\Uninstaller0.01\obj\x86\Debug\Uninstaller0.01.exe
+C:\Users\Owner\git\Windows-Background-Uninstaller\Uninstaller0.01\Uninstaller0.01\obj\x86\Debug\Uninstaller0.01.pdb
